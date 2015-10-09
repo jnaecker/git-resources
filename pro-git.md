@@ -1,8 +1,6 @@
-# Git
+# Pro Git
 
-## Source
-- [Pro Git](http://git-scm.com/book)
-
+Here is where I'm keeping my notes as I work through [Pro Git](http://git-scm.com/book).
 
 ## Chapter 1: Getting Started
 
@@ -229,6 +227,4 @@ There are a large number of useful options to pass the `log` command:
 	
 * `-- <path>` shows only the commits introduced to change files in the given path.  Note that this is always the *last* option passed, and also note the double-dashes are followed by a space and then the path/filename.
 
-## Other references
 
-This [git branching game](http://pcottle.github.io/learnGitBranching/) was very useful.
