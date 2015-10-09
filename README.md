@@ -1,0 +1,1 @@
+Notes and exercises from http://git-scm.com/book.
