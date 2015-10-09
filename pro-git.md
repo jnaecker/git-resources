@@ -211,7 +211,7 @@ There are a large number of useful options to pass the `log` command:
 	
 	* `short`, `full`, and '`fuller` give more information.
 	
-	* The `format` parameter allows you to fine-tune the output in terms of content, order, length, and color.  Here is [an example](https://coderwall.com/p/euwpig]).
+	* The `format` parameter allows you to fine-tune the output in terms of content, order, length, and color.  Here is [an example](https://coderwall.com/p/euwpig/a-better-git-log]).
 	
 * `--graph` shows a visual representation of the branch and merge history of the repo.
 
