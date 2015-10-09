@@ -1,6 +1,6 @@
 # Git
 
-## Sources
+## Source
 - [Pro Git](http://git-scm.com/book)
 
 
